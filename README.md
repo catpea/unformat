@@ -3,13 +3,13 @@ Convert internet or pop notation such as 10K, 10M back to js numbers.
 
 ## Conversion Examples
 
-1.5K to 1500
-10K to 10000
-10.5K to 10500
-15K to 15000
-1M to 1000000
-1.2M to 1200000
-1B to 1000000000
+- 1.5K to 1500
+- 10K to 10000
+- 10.5K to 10500
+- 15K to 15000
+- 1M to 1000000
+- 1.2M to 1200000
+- 1B to 1000000000
 
 ## Installation
 
