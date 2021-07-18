@@ -1,7 +1,7 @@
 {
   "name": "unformat",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert internet or pop notation such as 10K, 10M back to js numbers.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/catpea/unformat.git"
   },
-  "keywords": ["numeral", "unformat"],
+  "keywords": [
+    "numeral",
+    "unformat"
+  ],
   "author": "catpea <corporate.miou@gmail.com>",
   "license": "ISC",
   "bugs": {
