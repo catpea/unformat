@@ -1,7 +1,7 @@
 {
   "name": "unformat",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert internet or pop notation such as 10K, 10M back to js numbers.",
   "main": "index.js",
   "scripts": {
